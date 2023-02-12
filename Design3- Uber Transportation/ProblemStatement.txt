@@ -1,0 +1,7 @@
+The problem is to design a data model for an Uber-like transportation 
+service that can handle user location tracking, driver acceptance 
+or rejection of ride requests, payment processing 
+through card transactions, and storing information about 
+both the driver and the user. The data model should be efficient 
+and scalable to handle a large number of
+users and transactions while ensuring data privacy and security.
